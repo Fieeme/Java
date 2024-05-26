@@ -3,16 +3,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "RegisterAndLoginApp",
+            "name": "ChatServer",
             "request": "launch",
-            "mainClass": "RegisterAndLoginApp",
+            "mainClass": "ChatServer",
             "vmArgs": "--module-path \"D:/SOFTWAREHCZ/Java2024/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
         },
         {
             "type": "java",
-            "name": "Launch ChatServer",
+            "name": "RegisterAndLoginApp",
             "request": "launch",
-            "mainClass": "ChatServer",
+            "mainClass": "RegisterAndLoginApp",
             "vmArgs": "--module-path \"D:/SOFTWAREHCZ/Java2024/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
         }
     ]
