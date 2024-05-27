@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.Set;
+
 public class RegisterAndLoginApp extends Application {
     private TextField registerUsernameField;
     private PasswordField registerPasswordField;
